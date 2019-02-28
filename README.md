@@ -4,4 +4,5 @@ Web crawler in Python Scrapy. Inspired by: https://medium.com/python-pandemonium
 
 Inside Project Directory:
 `cd olx`
+
 `scrapy crawl appartments -o data.csv -t csv`
